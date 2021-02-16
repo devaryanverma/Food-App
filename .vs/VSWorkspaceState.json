@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.expo-shared",
+    "\\assets",
+    "\\assets\\fonts",
+    "\\Components",
+    "\\Constants",
+    "\\data",
+    "\\models",
+    "\\Navigation",
+    "\\Screens"
+  ],
+  "SelectedNode": "\\Screens\\CategoriesScreen.js",
+  "PreviewInSolutionExplorer": false
+}
